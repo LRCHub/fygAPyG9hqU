@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Family",
+  "base_artist": "eyden",
+  "createdAt": "2025-12-17T08:52:22.525219Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Runs in the Family",
+      "artist": "Amanda Palmer",
+      "has_synced": false,
+      "path": "select/01_Runs_in_the_Family_Amanda_Palmer.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Big Family",
+      "artist": "Hailey Whitters",
+      "has_synced": true,
+      "path": "select/02_Big_Family_Hailey_Whitters.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Family Bible",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/03_Family_Bible_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Family Tradition",
+      "artist": "Hank Williams, Jr.",
+      "has_synced": true,
+      "path": "select/04_Family_Tradition_Hank_Williams,_Jr..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Family Tradition",
+      "artist": "Hank Williams, Jr.",
+      "has_synced": true,
+      "path": "select/05_Family_Tradition_Hank_Williams,_Jr..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Family Tree",
+      "artist": "Caylee Hammack",
+      "has_synced": true,
+      "path": "select/06_Family_Tree_Caylee_Hammack.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Keep The Family Close",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/07_Keep_The_Family_Close_Drake.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Family (Skit)",
+      "artist": "Wu-Tang Clan",
+      "has_synced": true,
+      "path": "select/08_Family_(Skit)_Wu-Tang_Clan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Family Business (feat. John Forté)",
+      "artist": "Fugees feat. John Forte",
+      "has_synced": true,
+      "path": "select/09_Family_Business_(feat._John_Forté)_Fugees_feat._John_Forte.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Family Business",
+      "artist": "Fugees (Refugee Camp)",
+      "has_synced": true,
+      "path": "select/10_Family_Business_Fugees_(Refugee_Camp).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Chant of the Ever Circling Skeletal Family (2016 Remastered Version)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/11_Chant_of_the_Ever_Circling_Skeletal_Family_(2016_Remastered_Version)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Chant Of The Ever Circling Skeletal Family",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/12_Chant_Of_The_Ever_Circling_Skeletal_Family_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Family (feat. Dora and Dolly)",
+      "artist": "Young Thug, Dolly & Dora",
+      "has_synced": true,
+      "path": "select/13_Family_(feat._Dora_and_Dolly)_Young_Thug,_Dolly_&_Dora.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Family (feat. Dora and Dolly)",
+      "artist": "Young Thug",
+      "has_synced": false,
+      "path": "select/14_Family_(feat._Dora_and_Dolly)_Young_Thug.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Family Don't Matter",
+      "artist": "Young Thug feat. Millie Go Lightly",
+      "has_synced": true,
+      "path": "select/15_Family_Don't_Matter_Young_Thug_feat._Millie_Go_Lightly.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Family Don't Matter (feat. Millie Go Lightly)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/16_Family_Don't_Matter_(feat._Millie_Go_Lightly)_Young_Thug.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Family",
+      "artist": "eyden",
+      "has_synced": false,
+      "path": "select/pl_01_Family_eyden.txt"
+    }
+  ]
+}
